@@ -1,0 +1,13 @@
+name: provaTop2
+title: provaTop2
+username: fgasperin
+account: fgasperin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15010860
+bundleId: 10540837
+url: https://fgasperin.shinyapps.io/provaTop2/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
